@@ -27,4 +27,4 @@ I'm a passionate software developer with a keen interest in Javascript.
 **📬 Let's Connect:**
 
 *  Email: chuck@chuckreynolds.dev
-*  LinkedIn: linkedin.com/in/chuck-reynolds
+*  LinkedIn: https://linkedin.com/in/chuck-reynolds
