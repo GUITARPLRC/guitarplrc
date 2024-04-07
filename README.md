@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GUITARPLRC/guitarplrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+** 👋 Hi, I'm Chuck!**
+
+I'm a passionate software developer with a keen interest in Javascript.
+
+** 🧑‍💻 Technologies:**
+
+*  JavaScript
+*  React
+*  React Native
+*  Electron
+
+** 📬 Let's Connect:**
+
+*  Email: chuck@chuckreynolds.dev
+*  LinkedIn: linkedin.com/in/chuck-reynolds
