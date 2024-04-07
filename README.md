@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-** 👋 Hi, I'm Chuck!**
+**👋 Hi, I'm Chuck!**
 
 I'm a passionate software developer with a keen interest in Javascript.
 
-** 🧑‍💻 Technologies:**
+**🧑‍💻 Technologies:**
 
 *  JavaScript
 *  React
 *  React Native
 *  Electron
 
-** 📬 Let's Connect:**
+**📬 Let's Connect:**
 
 *  Email: chuck@chuckreynolds.dev
 *  LinkedIn: linkedin.com/in/chuck-reynolds
