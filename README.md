@@ -22,11 +22,19 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 *  JavaScript
 *  React
 *  React Native
-*  Modern CSS / Tailwind
+*  Modern CSS / Tailwind / Styled Components
 *  Electron
-*  Agile/Scrum
-*  Jira/Bitbucket/Atlassian
+*  NextJS
+*  Cypress / RTL
+*  Storybook
+*  Jira/Bitbucket/Trello/Atlassian
 *  Figma
+
+**🗣️ Soft skills :**
+
+* Agile/Scrum
+* Project Management
+* SDLC
 
 **🌱 I’m currently learning:**
 
@@ -36,8 +44,6 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 
 *  Email: chuck@chuckreynolds.dev
 *  LinkedIn: https://linkedin.com/in/chuck-reynolds
-*
-
 
 **🌳 Fun Fact:**
 
