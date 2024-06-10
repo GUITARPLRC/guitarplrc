@@ -30,7 +30,7 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 *  Jira/Bitbucket/Trello/Atlassian
 *  Figma
 
-**🗣️ Soft skills :**
+**🗣️ Soft skills:**
 
 * Agile/Scrum
 * Project Management
