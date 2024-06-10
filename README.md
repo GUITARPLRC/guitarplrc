@@ -15,19 +15,30 @@ Here are some ideas to get you started:
 
 **👋 Hi, I'm Chuck!**
 
-I'm a passionate software developer with a keen interest in Javascript.
+I'm a passionate software developer with a keen interest in Javascript and crafting experiences with both React and React Native.
 
 **🧑‍💻 Technologies:**
 
 *  JavaScript
 *  React
 *  React Native
+*  Modern CSS / Tailwind
 *  Electron
 *  Agile/Scrum
 *  Jira/Bitbucket/Atlassian
 *  Figma
 
+** 🌱 I’m currently learning
+
+* Svelte
+
 **📬 Let's Connect:**
 
 *  Email: chuck@chuckreynolds.dev
 *  LinkedIn: https://linkedin.com/in/chuck-reynolds
+*
+
+
+**🌳 Fun Fact:**
+
+* I  like bonsai, ask me about them
