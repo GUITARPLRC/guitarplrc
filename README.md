@@ -28,7 +28,7 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 *  Jira/Bitbucket/Atlassian
 *  Figma
 
-** 🌱 I’m currently learning
+**🌱 I’m currently learning:**
 
 * Svelte
 
