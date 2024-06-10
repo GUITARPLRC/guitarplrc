@@ -23,6 +23,9 @@ I'm a passionate software developer with a keen interest in Javascript.
 *  React
 *  React Native
 *  Electron
+*  Agile/Scrum
+*  Jira/Bitbucket/Atlassian
+*  Figma
 
 **📬 Let's Connect:**
 
