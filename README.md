@@ -42,6 +42,8 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 **🌱 I’m currently learning:**
 
 * Svelte
+* Go
+* Python
 
 **📬 Let's Connect:**
 
