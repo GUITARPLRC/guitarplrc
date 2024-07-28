@@ -22,6 +22,7 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 **🧑‍💻 Technologies:**
 
 *  JavaScript
+*  Typescript
 *  React
 *  React Native
 *  Modern CSS / Tailwind / Styled Components
