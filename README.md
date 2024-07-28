@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a passionate software developer with a keen interest in Javascript and crafting experiences with both React and React Native.
 
-👀 Check out my app in the App Store - (RateList)[https://apps.apple.com/us/app/ratelist/id6472594541] or my npm package (react-pokemon-dropdown)[https://www.npmjs.com/package/react-pokemon-dropdown]
+👀 Check out my app in the App Store - [RateList](https://apps.apple.com/us/app/ratelist/id6472594541) or my npm package [react-pokemon-dropdown](https://www.npmjs.com/package/react-pokemon-dropdown)
 
 **🧑‍💻 Technologies:**
 
