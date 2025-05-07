@@ -37,6 +37,7 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 **🗣️ Soft skills:**
 
 * Agile/Scrum
+* Tech Lead
 * Project Management
 * SDLC
 
