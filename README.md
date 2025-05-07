@@ -31,6 +31,7 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 *  Next.js / Astro.js
 *  Cypress / RTL / Jest
 *  Jira/Bitbucket/Trello/Atlassian
+*  Linear
 *  Figma
 
 **🗣️ Soft skills:**
@@ -51,4 +52,4 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 
 **🌳 Fun Fact:**
 
-* I  like bonsai, ask me about them
+* I like bonsai, ask me about them
