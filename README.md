@@ -21,7 +21,6 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 
 **🧑‍💻 Technologies:**
 
-*  JavaScript
 *  Typescript
 *  React
 *  React Native
@@ -40,11 +39,6 @@ I'm a passionate software developer with a keen interest in Javascript and craft
 * Tech Lead
 * Project Management
 * SDLC
-
-**🌱 I’m currently learning:**
-
-* Svelte
-* Python
 
 **📬 Let's Connect:**
 
